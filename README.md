@@ -29,3 +29,6 @@ The project unfolds through a series of well-defined steps:
 
 
 By the end of this project, you will gain a profound understanding of how data analysis, pandas, and Bayesian statistics converge to unveil insights that challenge commonly held beliefs. This project not only showcases the power of data-driven inquiry but also underscores the importance of critically evaluating age-old assumptions using modern analytical techniques. Whether you're an aspiring data scientist, a statistics enthusiast, or simply curious about the mysteries of human longevity, this project offers a captivating exploration into the interplay between handedness and the age at which we bid farewell to life. 
+
+
+ **** THIS DATA SET IS TAKEN FROM https://gist.githubusercontent.com/mbonsma/8da0990b71ba9a09f7de395574e54df1/raw/aec88b30af87fad8d45da7e774223f91dad09e88 ****
